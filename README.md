@@ -7,12 +7,15 @@ There are many ongoing debates on tobacco use. These include but are not limited
 
 U.S. Life Expectancy at Birth by State and Census Tract - 2010-2015 (https://catalog.data.gov/dataset/u-s-life-expectancy-at-birth-by-state-and-census-tract-2010-2015)
 This data was generated through the collaborative project “U.S. Small-area Life Expectancy Estimates Project (USALEEP)” between the NCHS, NAPHSIS, and the RWJF
-6 features and 73121 observations
+(6 features and 73121 observations)
+
+
 Behavioral Risk Factor Data: Tobacco Use - 2011 to present (https://catalog.data.gov/dataset/behavioral-risk-factor-data-tobacco-use-2011-to-present)
 This data was collected by the CDC through the State Tobacco Activities Tracking and Evaluation System that gathers information about chronic diseases, risk factors, and other causes of death
-31 features and 43341 observations
+(31 features and 43341 observations)
 
 The first dataset provides the life expectancy values by state through combined data from 2010-2015, which consists of 6 features: state, county, census tract number, life expectancy, life expectancy range, and life expectancy standard error. We will then adjust the two datasets accordingly as there are many unnecessary features in the Tobacco Use dataset (i.e. Data Value Footnote, Education, and so forth); furthermore, we will ensure the years overlap, so we will focus on the data collected from 2011 to 2015. After making the necessary changes, we will then conduct our project and analyze the data to see whether or not our question has been answered. 
+
 We believe this to be a very compelling story as this could provide us with future implications as to how we could go about tobacco use in the future at the national level. It is crucial that we understand not only the issues that we presently face but what could happen in the long-run if we are to truly act to support and develop our communities. As implied, tobacco use undoubtedly lowers life expectancy for those who are directly involved; but our question is, how will it affect our future generations? Through this study, we will be able to see whether there is a strong correlational relationship between tobacco use and lower life expectancy at birth; and if there is, we could then consider the necessary steps concerning the future policies on such use.
 
 # Background Research/Inspiration:
