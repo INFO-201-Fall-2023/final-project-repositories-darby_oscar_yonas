@@ -17,21 +17,21 @@ We believe this to be a very compelling story as this could provide us with futu
 
 # Background Research/Inspiration:
 Article 1: https://my.clevelandclinic.org/health/articles/17488-smoking
-This article about smoking gave us the necessary background concerning the topic of tobacco use and provided the overall context and idea for this project
-There is a lack of information concerning the future impacts on tobacco use, therefore strengthening our inspiration for this project
+* This article about smoking gave us the necessary background concerning the topic of tobacco use and provided the overall context and idea for this project
+* There is a lack of information concerning the future impacts on tobacco use, therefore strengthening our inspiration for this project
 
 Article 2: https://www.cdc.gov/chronicdisease/resources/publications/factsheets/tobacco.htm
-This article provide more in-depth statistics and information concerning the risk factors of tobacco use
-CDC shares its own response to tobacco use today, which gives us extra insight to our research topic
+* This article provide more in-depth statistics and information concerning the risk factors of tobacco use
+* CDC shares its own response to tobacco use today, which gives us extra insight to our research topic
 
 Article 3: https://www.cdc.gov/tobacco/data_statistics/fact_sheets/health_effects/tobacco_related_mortality/index.htm#:~:text=Cigarette%20smoking%20causes%20premature%20death,years%20shorter%20than%20for%20nonsmokers.&text=Quitting%20smoking%20before%20the%20age,related%20disease%20by%20about%2090%25.
-This article provides statistics on tobacco-related mortalities, including information on other risks that appear for regular smokers
-This article also provides us an overall idea of how serious and deadly the effects of tobacco use are
+* This article provides statistics on tobacco-related mortalities, including information on other risks that appear for regular smokers
+* This article also provides us an overall idea of how serious and deadly the effects of tobacco use are
 
 Article 4: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC437139/ 
-This link is a study that is conducted to see mortality among smokers versus non-smokers
-This study provides more context and direct evidence on the topic of smokers and lower life expectancy
+* This link is a study that is conducted to see mortality among smokers versus non-smokers
+* This study provides more context and direct evidence on the topic of smokers and lower life expectancy
 
 Article 5: https://tobaccocontrol.bmj.com/content/10/3/273
-This article also provides the information and methodologies on the research of estimating health expectancy among smokers and non-smokers in Denmark
-For results, it is shown that if no one in Denmark were to die from smoking, life expectancy would increase for both men and women. For our project, we seek to see how this would affect future generations as well.
+* This article also provides the information and methodologies on the research of estimating health expectancy among smokers and non-smokers in Denmark
+* For results, it is shown that if no one in Denmark were to die from smoking, life expectancy would increase for both men and women. For our project, we seek to see how this would affect future generations as well.
