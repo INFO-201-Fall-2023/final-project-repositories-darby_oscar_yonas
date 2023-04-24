@@ -6,11 +6,13 @@ final-project-repositories-dkilleen1 created by GitHub Classroom
 There are many ongoing debates on tobacco use. These include but are not limited to: the health risks, the effectiveness of current mitigations, and most importantly, the right to use. While we cannot answer all these questions, we can certainly study the effect and overall impact of tobacco use on our society, especially our health. As there are many studies on how tobacco use affects the ‘current’ public health, we decided to focus more on the ‘future’; or to be more specific, the life expectancy of our population at birth. First-hand and second-hand smoking has proven to be detrimental to our health; however, we are still uncertain how it affects babies and their life expectancy when they are born. We will therefore focus on the question: “is there a significant correlation between tobacco use and life expectancy at birth?” and work with these two datasets:
 
 U.S. Life Expectancy at Birth by State and Census Tract - 2010-2015 (https://catalog.data.gov/dataset/u-s-life-expectancy-at-birth-by-state-and-census-tract-2010-2015)
+
 This data was generated through the collaborative project “U.S. Small-area Life Expectancy Estimates Project (USALEEP)” between the NCHS, NAPHSIS, and the RWJF
 (6 features and 73121 observations)
 
 
 Behavioral Risk Factor Data: Tobacco Use - 2011 to present (https://catalog.data.gov/dataset/behavioral-risk-factor-data-tobacco-use-2011-to-present)
+
 This data was collected by the CDC through the State Tobacco Activities Tracking and Evaluation System that gathers information about chronic diseases, risk factors, and other causes of death
 (31 features and 43341 observations)
 
